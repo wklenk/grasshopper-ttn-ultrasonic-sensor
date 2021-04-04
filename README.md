@@ -35,9 +35,9 @@ So the functionality could be implemented with just a few lines of code.
     #include "Wire.h"
     #include "LoRaWAN.h"
     
-    const char *appEui = "70B3D57EF0004569";
-    const char *appKey = "FDE8B6EA50D61C4136C635487D5FB28B";
-    const char *devEui = "383434307e37750a"; 
+    const char *appEui = "70B3xxxxxxxxxxxx";
+    const char *appKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+    const char *devEui = "xxxxxxxxxxxxxxxx"; 
     
     void setup()
     {
